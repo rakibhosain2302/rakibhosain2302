@@ -6,7 +6,12 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-I'm a passionate 🌱 Full Stack Developer who thrives on transforming ideas into powerful web applications that drive real business value. My expertise spans the complete development lifecycle, from crafting intuitive user interfaces to architecting robust backend systems. I believe in writing clean, maintainable code and staying current with emerging technologies to deliver exceptional digital experiences.
+I'm a passionate **Full Stack Developer** with expertise in **PHP, Laravel, React.js, JavaScript, MySQL, and REST APIs**, dedicated to building scalable, secure, and user-friendly web applications that deliver real business value.
+
+I enjoy working across the entire development lifecycle—from creating responsive and interactive user interfaces with **React.js** to developing robust backend systems using **Laravel** and **PHP**. I believe in writing clean, maintainable, and efficient code while following industry best practices.
+
+With experience in **Git/GitHub**, API integration, and modern development workflows, I continuously explore emerging technologies and AI-powered development tools to build innovative, high-performance digital solutions and exceptional user experiences.
+
 
 
 </br>
