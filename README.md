@@ -4,7 +4,7 @@
 
 <h1>I'm Rakib Hosain</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=600&height=35&lines=Full+Stack+Web+Developer;PHP+%26+Laravel+Expert;React.js+%26+JavaScript+Developer;MySQL+%7C+RESTful+API;Always+Learning+New+Technologies)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Developer;PHP+%7C+Laravel;React.js+%7C+JavaScript;MySQL+%7C+RESTful+API;Always+Learning+New+Technologies)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
