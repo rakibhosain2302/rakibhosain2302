@@ -1,4 +1,4 @@
-![logo](https://github.com/Ariyan-Rahman-Anas/Ariyan-Rahman-Anas/blob/main/1.jpg)
+![logo](./hero.png)
 ### Hello there!👋
 <h1>I'm Rakib Hosain</h1>
 
