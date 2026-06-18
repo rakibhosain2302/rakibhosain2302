@@ -1,8 +1,10 @@
 ![logo](./hero.png)
+
 ### Hello there!👋
+
 <h1>I'm Rakib Hosain</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=600&height=35&lines=Full+Stack+Web+Developer;PHP+%26+Laravel+Expert;React.js+%26+JavaScript+Developer;MySQL+%7C+RESTful+API;Always+Learning+New+Technologies)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -11,8 +13,6 @@ I'm a passionate **Full Stack Developer** with expertise in **PHP, Laravel, Reac
 I enjoy working across the entire development lifecycle—from creating responsive and interactive user interfaces with **React.js** to developing robust backend systems using **Laravel** and **PHP**. I believe in writing clean, maintainable, and efficient code while following industry best practices.
 
 With experience in **Git/GitHub**, API integration, and modern development workflows, I continuously explore emerging technologies and AI-powered development tools to build innovative, high-performance digital solutions and exceptional user experiences.
-
-
 
 </br>
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
@@ -28,10 +28,9 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 </p>
 </br>
 <div width="100%">
- 
-
 
 ## Things I work with:
+
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -51,11 +50,9 @@ With experience in **Git/GitHub**, API integration, and modern development workf
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-
 </div>
 </br>
 </br>
-
 
 <div align="center" width="100%">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyan-rahman-anas&show_icons=true&locale=en&layout=compact" alt="ariyan-rahman-anas" /></p>
@@ -64,4 +61,3 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyan-rahman-anas&" alt="ariyan-rahman-anas" /></p>
 </div>
-
