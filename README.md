@@ -55,9 +55,11 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 </br>
 
 <div align="center" width="100%">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyan-rahman-anas&show_icons=true&locale=en&layout=compact" alt="ariyan-rahman-anas" /></p>
+ <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhosain2302&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariyan-rahman-anas&show_icons=true&locale=en" alt="ariyan-rahman-anas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhosain2302&show_icons=true&locale=en" alt="rakibhosain2302" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyan-rahman-anas&" alt="ariyan-rahman-anas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhosain2302&" alt="rakibhosain2302" /></p>
 </div>
