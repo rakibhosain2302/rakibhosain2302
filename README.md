@@ -61,5 +61,7 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhosain2302&show_icons=true&locale=en" alt="rakibhosain2302" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhosain2302&" alt="rakibhosain2302" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rakibhosain2302&theme=tokyonight" alt="GitHub Streak" />
+</p>
 </div>
