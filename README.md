@@ -55,6 +55,13 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 </br>
 
 <div align="center" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/output/github-contribution-grid-snake.svg" />
+</picture>
+
  <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhosain2302&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
