@@ -21,6 +21,9 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 📫 Email : rakibhosain.webdev@gmail.com
 </br>
 </br>
+<img src="https://komarev.com/ghpvc/?username=rakibhosain2302&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</br>
+</br>
 <p align="left">
 <a href="www.linkedin.com/in/dev-rakib-hosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibhosain2302" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rakibhosain220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibhosain220" height="30" width="40" /></a>
@@ -76,5 +79,52 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 </table>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rakibhosain2302&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy-eight.vercel.app/?username=rakibhosain2302&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+<br/>
+
+<img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=rakibhosain2302&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center" width="100%">
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rakibhosain2302/Product-System" target="_blank">
+        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=Product-System&theme=tokyonight&hide_border=true&border_radius=12" alt="Product-System" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rakibhosain2302/SPOVS" target="_blank">
+        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=SPOVS&theme=tokyonight&hide_border=true&border_radius=12" alt="SPOVS" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rakibhosain2302/Portfolio" target="_blank">
+        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=12" alt="Portfolio" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rakibhosain2302/Laravel-Blog-Project" target="_blank">
+        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=Laravel-Blog-Project&theme=tokyonight&hide_border=true&border_radius=12" alt="Laravel-Blog-Project" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>

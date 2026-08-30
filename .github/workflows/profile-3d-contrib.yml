@@ -1,0 +1,29 @@
+name: 3D Profile Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: generate github-profile-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          SOURCE_NAME: ${{ github.repository_owner }}
+      - name: commit
+        run: |
+          git add -A
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit -m "generate profile 3d contribution" -a || true
+      - name: push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: profile-3d-contrib
