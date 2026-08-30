@@ -86,7 +86,7 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img width="100%" src="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 </div>
 
