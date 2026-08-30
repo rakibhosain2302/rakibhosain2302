@@ -63,10 +63,10 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 </picture>
 
  <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhosain2302&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats-eosin-one.vercel.app/api/top-langs/?username=rakibhosain2302&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhosain2302&show_icons=true&locale=en" alt="rakibhosain2302" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eosin-one.vercel.app/api?username=rakibhosain2302&show_icons=true&locale=en" alt="rakibhosain2302" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=rakibhosain2302&theme=tokyonight" alt="GitHub Streak" />
