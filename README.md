@@ -59,6 +59,10 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 <div align="center" width="100%">
 
+<img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=rakibhosain2302&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/output/github-contribution-grid-snake.svg" />
@@ -82,11 +86,8 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 <br/>
 
-<img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=rakibhosain2302&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<!-- <img width="100%" src="https://raw.githubusercontent.com/rakibhosain2302/rakibhosain2302/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /> -->
 
 </div>
 
