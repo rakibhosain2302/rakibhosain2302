@@ -59,7 +59,7 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 <div align="center" width="100%">
 
-<img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=rakibhosain2302&hide_border=true&area=true&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area_color=39d353&title_color=39d353" alt="GitHub Activity Graph" />
+<img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=rakibhosain2302&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 <br/>
 
