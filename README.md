@@ -82,10 +82,6 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 <br/>
 
-<img src="https://github-profile-trophy-eight.vercel.app/?username=rakibhosain2302&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-<br/>
-
 <img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=rakibhosain2302&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 <br/>
@@ -94,37 +90,3 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 
 </div>
 
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center" width="100%">
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rakibhosain2302/Product-System" target="_blank">
-        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=Product-System&theme=tokyonight&hide_border=true&border_radius=12" alt="Product-System" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rakibhosain2302/SPOVS" target="_blank">
-        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=SPOVS&theme=tokyonight&hide_border=true&border_radius=12" alt="SPOVS" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rakibhosain2302/Portfolio" target="_blank">
-        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=12" alt="Portfolio" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rakibhosain2302/Laravel-Blog-Project" target="_blank">
-        <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/pin/?username=rakibhosain2302&repo=Laravel-Blog-Project&theme=tokyonight&hide_border=true&border_radius=12" alt="Laravel-Blog-Project" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
