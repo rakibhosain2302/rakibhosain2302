@@ -67,7 +67,7 @@ With experience in **Git/GitHub**, API integration, and modern development workf
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/top-langs/?username=rakibhosain2302&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api/top-langs/?username=rakibhosain2302&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=Hack" alt="Top Languages" />
     </td>
     <td valign="top" width="50%">
       <img width="100%" src="https://github-readme-stats-eosin-one.vercel.app/api?username=rakibhosain2302&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=12" alt="rakibhosain2302" />
